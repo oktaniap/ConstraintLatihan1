@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLatihan1</string>
+    <string name="textview">Satu</string>
+    <string name="textview1">Dua</string>
+    <string name="textview2">Tiga</string>
+    <string name="textview3">Empat</string>
+</resources>
